@@ -1,0 +1,21 @@
+{
+    "name": "nocturnes-plural",
+    "displayName": "nocturnes-plural",
+    "description": "high contrast dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nocturnes (plural)",
+                "uiTheme": "hc-black",
+                "path": "./themes/Nocturnes (plural)-color-theme.json"
+            }
+        ]
+    }
+}
