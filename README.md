@@ -7,9 +7,6 @@ javascript
 python
 ![python](images/python.png)
 
-JSON
-![nested JSON](images/nested-json.png)
-
 CSS
 ![css](images/css.png)
 
