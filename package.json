@@ -2,9 +2,19 @@
     "name": "nocturnes-plural",
     "displayName": "nocturnes-plural",
     "description": "high contrast dark theme",
+    "publisher": "timmyha",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
+    },
+    "author": {
+        "name": "Timothy Hansher",
+        "email": "timhansher@gmail.com",
+        "url": "http:https://github.com/timmyha/"
+    },
+    "repository": {
+        "url": "https://github.com/timmyha/nocturnes-plural",
+        "type": "git"
     },
     "categories": [
         "Themes"
