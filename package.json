@@ -3,7 +3,7 @@
     "displayName": "nocturnes-plural",
     "description": "high contrast dark theme",
     "publisher": "timmyha",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.65.0"
     },
@@ -19,6 +19,16 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.png",
+    "keywords": [
+        "contrast",
+        "dark",
+        "pink",
+        "cyberpunk",
+        "bright",
+        "night",
+        "neon"
+      ],
     "contributes": {
         "themes": [
             {

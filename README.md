@@ -1,5 +1,5 @@
 # nocturnes (plural)
-#### a high-contrast dark theme for visual studio code
+#### a high(er)-contrast dark theme for visual studio code
 
 javascript
 ![javascript](images/javascript.png)
