@@ -20,7 +20,7 @@
 		"editorBracketHighlight.foreground2": "#f2bfc7",
 		"editorBracketHighlight.foreground3": "#c2f2bf",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#ff6767",
-		"editorCursor.foreground": "#b3b3d4",
+		"editorCursor.foreground": "#ff0095",
 		"editorGroupHeader.tabsBackground": "#151515",
 		"editorRuler.foreground": "#b3b3d44e",
 		"editorWhitespace.foreground": "#222222",
