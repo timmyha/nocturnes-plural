@@ -1,7 +1,13 @@
 # nocturnes (plural)
 #### a high(er)-contrast dark theme for visual studio code
 
-I think I've finally gotten this to a point where I'm ok with all the text. The UI remains unfinished for now.
+The text colors are final, the UI needs a bit of tweaking.
+
+**road map:**
+
+- [] less contrast version
+- [] complete sidebar, icon colors, other UI elements, if necessary
+- [] cuter icon
 
 Javascript/JSX sample:
 
