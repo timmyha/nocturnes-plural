@@ -3,7 +3,7 @@
     "displayName": "nocturnes-plural",
     "description": "high contrast dark theme",
     "publisher": "timmyha",
-    "version": "0.0.7",
+    "version": "0.0.9",
     "engines": {
         "vscode": "^1.65.0"
     },
