@@ -1,14 +1,8 @@
 # nocturnes (plural)
 #### a high(er)-contrast dark theme for visual studio code
 
-javascript
+I think I've finally gotten this to a point where I'm ok with all the text. The UI remains unfinished for now.
+
+Javascript/JSX sample:
+
 ![javascript](images/javascript.png)
-
-python
-![python](images/python.png)
-
-CSS
-![css](images/css.png)
-
-React JSX
-![react](images/react.png)

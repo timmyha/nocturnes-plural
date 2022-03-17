@@ -12,7 +12,7 @@
 		"editor.background": "#141414",
 		"editor.findMatchBackground": "#7929ae",
 		"editor.findMatchHighlightBackground": "#302a4e",
-		"editor.foreground": "#d8d8f0",
+		"editor.foreground": "#b6b6d4",
 		"editor.lineHighlightBackground": "#151515",
 		"editor.rangeHighlightBackground": "#2b2646",
 		"editor.selectionBackground": "#30294c",
@@ -610,7 +610,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#9594B3"
+				"foreground": "#474666"
 			}
 		},
 		{
